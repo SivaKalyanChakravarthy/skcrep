@@ -1,4 +1,4 @@
 # skcrep
 new repository
 
-added demo class
+added demo classes
